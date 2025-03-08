@@ -101,7 +101,7 @@ A Python-based **Password Strength Meter & Generator** built using Streamlit. Th
 
 ## Acknowledgments
 
-- Built with ❤️ using [Streamlit](https://streamlit.io/).
+- Built with ❤️ using (https://password-strength-checker-by-lisabp.streamlit.app/)).
 - Inspired by the need for stronger password security practices.
 
 ---
