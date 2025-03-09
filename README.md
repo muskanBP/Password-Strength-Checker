@@ -47,6 +47,20 @@ A Python-based **Password Strength Meter & Generator** built using Streamlit. Th
 
 ---
 
+## Screenshots
+
+### Password Strength Meter
+![Password Strength Meter](screenshots/strength_meter.png)
+
+### Password Generator
+![Password Generator](screenshots/password_generator.png)
+
+### Weak Password Warning
+![Weak Password Warning](screenshots/weak_password.png)
+
+---
+
+
 ## Installation
 
 ### Prerequisites
